@@ -34,3 +34,13 @@
 ul{
     list-style: none;
 }
+blockquote{
+    font-style: oblique;
+    font-size:200%;
+    font-family:'Yanone Kaffeesatz', sans-serif;
+    border:none;
+    color: #F9BF3B;
+}
+orange{
+    color:#F9BF3B;
+}
